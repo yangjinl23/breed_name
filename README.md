@@ -14,3 +14,8 @@ A simple Android app to help you identify dog breeds using images. This app fetc
 - **MVVM** (Model-View-ViewModel) architecture for clear separation of concerns.
 - **Repository Pattern** for data management and retrieval.
 - **Jetpack Compose** for UI components.
+
+## Screenshots
+
+![Question Screen](images/question_screen.png)
+![Correct Answer](images/correct_answer.png)
