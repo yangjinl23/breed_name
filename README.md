@@ -17,5 +17,5 @@ A simple Android app to help you identify dog breeds using images. This app fetc
 
 ## Screenshots
 
-![Question Screen](images/question_screen.png)
-![Correct Answer](images/correct_answer.png)
+![Question Screen](screenshots/question_screen.png)
+![Correct Answer](screenshots/correct_answer.png)
